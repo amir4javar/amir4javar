@@ -25,6 +25,8 @@ I'm actively exploring opportunities in **research positions**, **PhD programs**
 If my work resonates with what you're building or researching, I'd love to connect.
 
 ## Get in Touch
+- 📧 Email: [amir4javar@gmail.com](mailto:amir4javar@gmail.com)
+
 
 <!-- Uncomment and fill in the links that apply to you:
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
