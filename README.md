@@ -1,6 +1,8 @@
 # Hi, I'm Amir Hossein Javartani 👋
 
-I'm an undergraduate Computer Engineering student and junior AI engineer passionate about building intelligent systems that solve real-world problems — from research prototypes to production deployments.
+I'm an AI engineer specializing in NLP, RAG systems, and LLM applications — I help teams and clients turn research-grade models into production-ready features.
+
+🟢 **Available for freelance/contract work** — reach out via [email](mailto:amir4javar@gmail.com) if you have a project in mind.
 
 ## What I Work On
 
@@ -21,9 +23,9 @@ My work sits at the intersection of **NLP/ML research** and **applied AI enginee
 
 ## What I'm Looking For
 
-I'm actively exploring opportunities in **research positions**, **PhD programs**, **scholarships**, and **industry AI/ML roles**. I'm particularly interested in groups working on efficient ML, knowledge distillation, retrieval-augmented systems, or applied machine learning.
+I take on freelance projects in **NLP**, **RAG/chatbot systems**, and **LLM application development** — from prototype to deployed product. I also stay engaged with research-adjacent work (efficient ML, knowledge distillation) and I'm open to research or industry roles if the right opportunity comes along.
 
-If my work resonates with what you're building or researching, I'd love to connect.
+If you have a project that needs an AI engineer who can ship, let's talk.
 
 ## Get in Touch
 
